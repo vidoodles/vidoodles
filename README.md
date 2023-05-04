@@ -1,8 +1,8 @@
-# Hi, I'm Harold
+# Hi, I'm Harold <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidoodles&label=Profile%20views&color=0e75b6&style=flat" alt="vidoodles" />
+</p>
 <a href="https://www.linkedin.com/in/harold-v-2aa211145/">
   <img align="left" alt="Harold Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br>
 
 I'm a software engineer with a focus on Python and Docker. I have 6 years of experience in developing web applications, microservices, and cloud-native architectures. I enjoy solving complex problems, writing clean and maintainable code. 
